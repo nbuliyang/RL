@@ -19,7 +19,7 @@ obs,action这两个部分
 三、运行结果  
 1.代码几乎不用修改就可以得到高分。reward 4000+
 
-![avatar](./evaluate.png)
+![avatar](./evaluate2.png)
 ![avatar](./show.gif)
 
 
